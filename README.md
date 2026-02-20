@@ -1,7 +1,7 @@
-# ML4CORes
-Resourse of ML4CO
+# Resourse of ML4CO
 
-优化基础模型（大语言模型+领域基础模型）：
+
+# 优化基础模型（大语言模型+领域基础模型）：
 
 Foundation Models for Combinatorial Optimization (FM4CO) contains interesting research papers (1) using Existing Large Language Models for Combinatorial Optimization, and (2) building Domain Foundation Models for Combinatorial Optimization.
 
@@ -19,7 +19,7 @@ https://github.com/FeiLiu36/LLM4Opt
 www.llm4ad.com
 
 
-机器学习优化方法：
+# 机器学习优化方法：
 
 Resources that utilize machine learning technologies to solve combinatorial optimization problems.
 https://github.com/Thinklab-SJTU/awesome-ml4co
