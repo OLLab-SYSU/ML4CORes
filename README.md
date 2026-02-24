@@ -1,6 +1,5 @@
 # Resourse of ML4CO
 
-
 # 优化基础模型（大语言模型+领域基础模型）：
 
 Foundation Models for Combinatorial Optimization (FM4CO) contains interesting research papers (1) using Existing Large Language Models for Combinatorial Optimization, and (2) building Domain Foundation Models for Combinatorial Optimization.
@@ -29,7 +28,7 @@ RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchm
 
 https://github.com/ai4co/rl4co
 
-htps://ai4co.org/
+https://ai4co.org/
 
 
 
