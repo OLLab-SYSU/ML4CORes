@@ -1,6 +1,6 @@
 # Resourse of ML4CO
 
-# Foundation Models for Combinatorial Optimization (FM4CO)：
+## Foundation Models for Combinatorial Optimization (FM4CO)：
 
 Foundation Models for Combinatorial Optimization (FM4CO) contains interesting research papers (1) using Existing **Large Language Models** for Combinatorial Optimization, and (2) building **Domain Foundation Models** for Combinatorial Optimization.
 
@@ -18,7 +18,7 @@ https://github.com/FeiLiu36/LLM4Opt
 www.llm4ad.com
 
 
-# Machine Learning for Combinatorial Optimization (ML4CO)：
+## Machine Learning for Combinatorial Optimization (ML4CO)：
 
 Resources that utilize machine learning technologies to solve combinatorial optimization problems.
 https://github.com/Thinklab-SJTU/awesome-ml4co
