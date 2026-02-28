@@ -21,9 +21,10 @@ www.llm4ad.com
 ## Machine Learning for Combinatorial Optimization (ML4CO)：
 
 Resources that utilize machine learning technologies to solve combinatorial optimization problems.
+
 https://github.com/Thinklab-SJTU/awesome-ml4co
 
-**Reinforcement Learning**：
+#### Reinforcement Learning
 RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
 
 https://github.com/ai4co/rl4co
@@ -31,5 +32,5 @@ https://github.com/ai4co/rl4co
 https://ai4co.org/
 
 ## Machine Learning and Optimization：
-H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
+- H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
 
