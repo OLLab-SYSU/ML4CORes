@@ -34,3 +34,22 @@ https://ai4co.org/
 ## Machine Learning and Optimization：
 - H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
 
+## Comparison and Benchmarks：
+- RRNCO: Towards real-world routing with neural combinatorial optimization, ICLR 2026.
+
+- FrontierCO：Real-world and large-scale evalution of machine learning solvers for combinatorial optimizaton, ICLR 2026.
+
+- SVRPBench: A realistic benchmark for stochastic vehicle routing problem, NeurIPS 2025.
+
+- ML4CO-Bench-101: Benchmark machine learning for classic combinatorial problems on graphs, NeurIPS 2025.
+
+- MaxCutBench: Revisting and benchmarking graph neural networks for maximum cut, TMLR, 2025.
+
+- CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimizaiton, AAAI 2026.
+
+- HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization, ICLR 2026.
+
+- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, 2026.
+
+- Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
+
