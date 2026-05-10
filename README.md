@@ -49,7 +49,7 @@ https://ai4co.org/
 
 - HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization, ICLR 2026.
 
-- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, 2026.
+- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
 
