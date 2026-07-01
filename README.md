@@ -54,4 +54,4 @@ https://ai4co.org/
 - Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
 
 ## Paper Rebuttal Tips：
-github: https://github.com/MLNLP-World/Paper-Rebuttal-Tips
+For AI/LLM Conference paper: https://github.com/MLNLP-World/Paper-Rebuttal-Tips
