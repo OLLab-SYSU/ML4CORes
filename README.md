@@ -2,12 +2,12 @@
 
 ## Machine Learning for Vehicle Routing Problme (VRP)：
 
+#### LLM4VRP
+- [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604) (https://github.com/xianchaoxiu/LLM4OR)
+
 #### NCO4VRP
 - [Survey on Neural Routing Solvers](https://arxiv.org/abs/2602.21761)
 - [Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives](https://arxiv.org/abs/2406.00415)
-
-#### LLM4VRP
-- [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604) (https://github.com/xianchaoxiu/LLM4OR)
 
 ## Foundation Models for Combinatorial Optimization (FM4CO)：
 
