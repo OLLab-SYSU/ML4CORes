@@ -34,6 +34,15 @@ https://ai4co.org/
 ## Machine Learning and Optimization：
 - H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
 
+## Machine Learning for Vehicle Routing Problme (VRP)：
+
+#### NCO4VRP
+- [Survey on Neural Routing Solvers](https://arxiv.org/abs/2602.21761)
+- [Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives](https://arxiv.org/abs/2406.00415)
+
+#### LLM4VRP
+- [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604)
+
 ## Comparison and Benchmarks：
 - RRNCO: Towards real-world routing with neural combinatorial optimization, ICLR 2026.
 
