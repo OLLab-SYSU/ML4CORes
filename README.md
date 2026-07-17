@@ -1,6 +1,6 @@
 # Resourse of ML4CO
 
-## Machine Learning for Vehicle Routing Problem (VRP)：
+## Machine Learning for Vehicle Routing Problem (ML4VRP)：
 
 #### LLM4VRP
 - [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604) (https://github.com/xianchaoxiu/LLM4OR)
