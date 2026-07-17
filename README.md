@@ -19,7 +19,7 @@ https://github.com/ai4co/awesome-fm4co
 
 - **Domain Foundation Models**: Developing a domain FM capable of solving a wide range of COPs presents an intriguing and formidable challenge. Recent efforts in this area aim towards this ambitious goal by creating a **unified architecture or representation** applicable across various COPs.
 
-#### Collection on Algorithm Design with Large Language Models
+#### LLMs for Algorithm Design (LLM4AD)
 
 Fei Liu, Rui Zhang, Zhuoliang Xie, Rui Sun, Kai Li, Xi Lin, Zhenkun Wang, Zhichao Lu, and Qingfu Zhang. "LLM4AD: A Platform for Algorithm Design with Large Language Model."arXiv, 2024. 
 
@@ -33,7 +33,7 @@ Resources that utilize machine learning technologies to solve combinatorial opti
 
 https://github.com/Thinklab-SJTU/awesome-ml4co
 
-#### Reinforcement Learning
+#### Reinforcement Learning for Combinatorial Optimization (RL4CO)
 RL4CO: an Extensive Reinforcement Learning for Combinatorial Optimization Benchmark
 
 https://github.com/ai4co/rl4co
