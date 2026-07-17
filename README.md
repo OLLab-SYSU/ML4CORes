@@ -40,10 +40,6 @@ https://github.com/ai4co/rl4co
 
 https://ai4co.org/
 
-## Machine Learning and Optimization：
-- H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
-
-
 ## Comparison and Benchmarks：
 - RRNCO: Towards real-world routing with neural combinatorial optimization, ICLR 2026.
 
@@ -63,5 +59,10 @@ https://ai4co.org/
 
 - Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
 
+--------------------------------------------------
+## Machine Learning and Optimization：
+- H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
+
+--------------------------------------------------
 ## Paper Rebuttal Tips：
 For AI/LLM Conference paper: https://github.com/MLNLP-World/Paper-Rebuttal-Tips
