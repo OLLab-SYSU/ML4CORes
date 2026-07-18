@@ -27,6 +27,10 @@ https://github.com/FeiLiu36/LLM4Opt
 
 www.llm4ad.com
 
+#### LLMs for Optimization Modeling (LLM4OM)
+[A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions](https://arxiv.org/abs/2508.10047) (https://github.com/LLM4OR/LLM4OR)
+
+
 ## Machine Learning for Combinatorial Optimization (ML4CO)：
 
 Resources that utilize machine learning technologies to solve combinatorial optimization problems.
