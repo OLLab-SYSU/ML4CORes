@@ -3,7 +3,7 @@
 ## Machine Learning for Vehicle Routing Problem (ML4VRP)：
 
 #### LLM4VRP
-- [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604), 2026. (https://github.com/xianchaoxiu/LLM4OR)
+- [Vehicle Routing Problem Meets Large Language Models: An Overview and Perspectives](https://arxiv.org/abs/2607.00604), 2026. [GitHub](https://github.com/xianchaoxiu/LLM4OR)
 
 #### NCO4VRP
 - [Survey on Neural Routing Solvers](https://arxiv.org/abs/2602.21761), 2026.
@@ -28,7 +28,7 @@ https://github.com/FeiLiu36/LLM4Opt
 www.llm4ad.com
 
 #### LLMs for Optimization Modeling (LLM4OM)
-[A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions](https://arxiv.org/abs/2508.10047), 2025.(https://github.com/LLM4OR/LLM4OR)
+[A Survey of Optimization Modeling Meets LLMs: Progress and Future Directions](https://arxiv.org/abs/2508.10047), 2025.[GitHub](https://github.com/LLM4OR/LLM4OR)
 
 
 ## Machine Learning for Combinatorial Optimization (ML4CO)：
