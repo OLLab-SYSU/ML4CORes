@@ -55,7 +55,7 @@ https://ai4co.org/
 
 - MaxCutBench: Revisting and benchmarking graph neural networks for maximum cut, TMLR, 2025.
 
-- CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimizaiton, AAAI 2026.
+- CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimization, AAAI 2026.
 
 - HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization, ICLR 2026.
 
