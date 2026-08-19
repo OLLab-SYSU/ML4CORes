@@ -61,6 +61,8 @@ https://ai4co.org/
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
+- ConstraintBench: Benchmarking LLM constraint reasoning on direct optimization, 2026.
+
 - Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
 
 --------------------------------------------------
