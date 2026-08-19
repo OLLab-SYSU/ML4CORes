@@ -63,7 +63,7 @@ https://ai4co.org/
 
 - CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimization, AAAI 2026.
 
-- FrontierCO：Real-world and large-scale evalution of machine learning solvers for combinatorial optimizaton, ICLR 2026.
+- FrontierCO：Real-world and large-scale evaluation of machine learning solvers for combinatorial optimization, ICLR 2026.
 --------------------------------------------------
 ## Machine Learning and Optimization：
 - H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
