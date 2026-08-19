@@ -55,16 +55,15 @@ https://ai4co.org/
 
 - MaxCutBench: Revisting and benchmarking graph neural networks for maximum cut, TMLR, 2025.
 
-- CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimization, AAAI 2026.
-
-- HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization, ICLR 2026.
+- Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - ConstraintBench: Benchmarking LLM constraint reasoning on direct optimization, 2026.
 
-- Evaluation of large language models as solution generators in complex optimization, IEEE CIM, 2025.
+- HeuriGym: An agentic benchmark for LLM-crafted heuristics in combinatorial optimization, ICLR 2026.
 
+- CO-Bench: Benchmarking language model agents in algorithm search for combinatorial optimization, AAAI 2026.
 --------------------------------------------------
 ## Machine Learning and Optimization：
 - H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
