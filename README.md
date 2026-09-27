@@ -65,7 +65,7 @@ https://ai4co.org/
 
 - FrontierCO：Real-world and large-scale evaluation of machine learning solvers for combinatorial optimization, ICLR 2026.
 --------------------------------------------------
-## Machine Learning and Optimization：
+## Machine Learning meets Optimization：
 - H. Song, I. Triguero and E. Özcan, A review on the self and dual interactions between machine learning and optimisation, Progress in Artificial Intelligence, vol. 8, no. 2, pp. 143–165, 2019.
 
 
