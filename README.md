@@ -8,6 +8,7 @@
 #### NCO4VRP
 - [Survey on Neural Routing Solvers](https://arxiv.org/abs/2602.21761), 2026.
 - [Neural Combinatorial Optimization Algorithms for Solving Vehicle Routing Problems: A Comprehensive Survey with Perspectives](https://arxiv.org/abs/2406.00415), 2026.
+- URS: A unified neural routing solver for cross-problem zero-shot generalization, ICML 2026.
 
 ## Foundation Models for Combinatorial Optimization (FM4CO)：
 
